@@ -44,7 +44,3 @@ I'm a passionate DevOps Engineer with expertise in designing, automating, and op
 ⭐ **Feel free to explore my repositories and contribute!** ⭐  
 
 ---
-
-🔹 *"Automation is not about replacing humans; it's about amplifying human potential."*  
-
----
