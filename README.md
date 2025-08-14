@@ -2,7 +2,7 @@
 
 🚀 **DevOps Engineer** | ☁️ **Cloud Enthusiast** | 🔧 **Automation Expert**  
 
-I’m a passionate DevOps engineer with hands-on experience and a strong foundation in cloud automation, CI/CD, and infrastructure-as-code (IaC).
+I’m a DevOps engineer with hands-on experience and a strong foundation in cloud automation, CI/CD, and infrastructure-as-code (IaC).
 Experienced in deploying scalable containerized applications using Docker & Kubernetes, and automating cloud infrastructure with Terraform & AWS.Proficient in scripting and managing AWS services.
 Passionate about implementing DevOps best practices to enhance system reliability, security, and performance. 
 
