@@ -37,7 +37,7 @@ Passionate about implementing DevOps best practices to enhance system reliabilit
 
 ## **📫 Let's Connect!**  
 
-💼 Linkedin
+💼 https://linkedin.com/in/prathamesh-bhujade
 
 ✉️ prathameshbhujade@outlook.com
 
